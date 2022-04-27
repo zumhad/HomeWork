@@ -15,7 +15,7 @@ void reverse(int* arr)
 	for (int i = 0; i < 10; i++) 
 		arr[i] = temp[SIZE - i - 1];
 }
-
+ 
 void sort(int* arr)
 {
 	cout << "sort(arr)" << endl;
