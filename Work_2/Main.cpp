@@ -90,5 +90,6 @@ int main()
 	cout << endl;
 
 	delete[] arr;
+	system("pause");
 	return 0;
 }
