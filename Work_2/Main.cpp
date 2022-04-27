@@ -52,7 +52,6 @@ void sort_reverse(int* arr)
 	}
 }
 
-
 void (*check(int* arr))(int*)
 {
 	void (*result)(int*) = 0;
